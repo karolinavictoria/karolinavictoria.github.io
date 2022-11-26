@@ -42,14 +42,14 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #00008B;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
-    color: #eeeeee;
+    color: #F0E68C;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -80,10 +80,11 @@
 
 .skills ul {
     padding-top: 1.5rem;
+    color: #000000
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #F0E68C;
 }
 
 .right-section-contents {
